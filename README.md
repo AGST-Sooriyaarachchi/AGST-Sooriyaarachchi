@@ -1,22 +1,19 @@
- <div align="center">
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0B1F3A,50:123B66,100:2563EB&reversal=true" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0B1F3A,50:123B66,100:2563EB&reversal=true" width="100%" />
 
 <br>
 
-<img src="assets/profile.jpg" width="180" alt="Senuji Sooriyaarachchi" />
+<img src="./profile.png" width="125" height="125" style="border-radius: 50%; object-fit: cover;" alt="Senuji Sooriyaarachchi" />
 
-# Hi there, I'm Senuji Sooriyaarachchi 👋
+<h2>Hi there, I'm Senuji Sooriyaarachchi 👋</h2>
 
-### IT Undergraduate | Creative Entrepreneur
+<h3>IT Undergraduate | Creative Entrepreneur</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Exploring+the+World+of+Technology;Combining+Technology+%26+Creativity;Turning+Ideas+Into+Possibilities;Always+Learning+and+Growing" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=AGST-Sooriyaarachchi&label=Profile%20Views&color=2563EB&style=flat" />
-
 </div>
+
 
 ---
 
